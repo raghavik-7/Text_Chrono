@@ -136,7 +136,7 @@ Both models use backpropagation through time (BPTT) for training and include gra
 
 ## Performance
 
-The models are designed for educational purposes and demonstrate:
+The models demonstrate:
 - Custom implementation of RNN/LSTM cells
 - Proper gradient flow and weight updates
 - Training stability with gradient clipping
@@ -149,10 +149,6 @@ The models are designed for educational purposes and demonstrate:
 - requests: Data downloading
 - jupyter: Notebook environment
 - pandas: Data manipulation
-
-## License
-
-This project is for educational purposes. Please ensure compliance with the IMDB dataset license when using the data.
 
 ## Contributing
 
